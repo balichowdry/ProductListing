@@ -1,0 +1,9 @@
+{
+  "commitish" : "17.0.0",
+  "iOS" : [
+    {
+      "name" : "Cosmos",
+      "hash" : "096efc75f8b69ea99b0cb5d5646094e4d02a9619b49c414c98e774fbf7f2197f"
+    }
+  ]
+}
